@@ -11,6 +11,6 @@ public class TestController {
 	@GetMapping("/greet")
 	public String greet()
 	{
-		return "This is Jenkin deployemnet cdoe After 5 min Working or not ratan sir this is Fully Automated with docker";
+		return "This is Jenkin Completed";
 	}
 }
